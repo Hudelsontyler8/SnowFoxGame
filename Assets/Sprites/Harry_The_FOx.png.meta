@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: e9ea0bcc65bfc1f4cb19f4c40d67ed98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6695256286400574551
+    second: Harry_The_FOx_0
+  - first:
+      213: -2728196459879992196
+    second: Harry_The_FOx_1
+  - first:
+      213: 9220948212527408335
+    second: Harry_The_FOx_2
+  - first:
+      213: 9216828678760162448
+    second: Harry_The_FOx_3
+  - first:
+      213: -4015673292942260807
+    second: Harry_The_FOx_4
+  - first:
+      213: 1139069501272744619
+    second: Harry_The_FOx_5
+  - first:
+      213: -6779658313576230997
+    second: Harry_The_FOx_6
+  - first:
+      213: 2979706780617116331
+    second: Harry_The_FOx_7
+  - first:
+      213: 2773210177003069933
+    second: Harry_The_FOx_8
+  - first:
+      213: 7690522110678815131
+    second: Harry_The_FOx_9
+  - first:
+      213: 7548438244985558694
+    second: Harry_The_FOx_10
+  - first:
+      213: -7625419652447472377
+    second: Harry_The_FOx_11
+  - first:
+      213: -2615014113859645983
+    second: Harry_The_FOx_12
+  - first:
+      213: 5740255888045122036
+    second: Harry_The_FOx_13
+  - first:
+      213: -8137766835579465398
+    second: Harry_The_FOx_14
+  - first:
+      213: 2797885572636956091
+    second: Harry_The_FOx_15
+  - first:
+      213: -9218678195933348947
+    second: Harry_The_FOx_16
+  - first:
+      213: -4183324919353099707
+    second: Harry_The_FOx_17
+  - first:
+      213: -4390860199891118662
+    second: Harry_The_FOx_18
+  - first:
+      213: -8958219411889115813
+    second: Harry_The_FOx_19
+  - first:
+      213: -4491077344207797115
+    second: Harry_The_FOx_20
+  - first:
+      213: 6412874791402645721
+    second: Harry_The_FOx_21
+  - first:
+      213: -4210791208087555744
+    second: Harry_The_FOx_22
+  - first:
+      213: -2767669374317878255
+    second: Harry_The_FOx_23
+  - first:
+      213: 162009394675361859
+    second: Harry_The_FOx_24
+  - first:
+      213: 3973089760061615048
+    second: Harry_The_FOx_25
+  - first:
+      213: -2244365473498893123
+    second: Harry_The_FOx_26
+  - first:
+      213: -6250067332422714219
+    second: Harry_The_FOx_27
+  - first:
+      213: 7841224506429959500
+    second: Harry_The_FOx_28
+  - first:
+      213: -3505002441163159170
+    second: Harry_The_FOx_29
+  - first:
+      213: -2058012522327689545
+    second: Harry_The_FOx_30
+  - first:
+      213: 5012590665050931760
+    second: Harry_The_FOx_31
+  - first:
+      213: -3247447407700708852
+    second: Harry_The_FOx_32
+  - first:
+      213: -840398122738112943
+    second: Harry_The_FOx_33
+  - first:
+      213: 6836250041303851307
+    second: Harry_The_FOx_34
+  - first:
+      213: -5759941686200018561
+    second: Harry_The_FOx_35
+  - first:
+      213: 2829756278270451472
+    second: Harry_The_FOx_36
+  - first:
+      213: 445843060201771152
+    second: Harry_The_FOx_37
+  - first:
+      213: -2409810906516417524
+    second: Harry_The_FOx_38
+  - first:
+      213: 810802646365307442
+    second: Harry_The_FOx_39
+  - first:
+      213: 7410325383803737662
+    second: Harry_The_FOx_40
+  - first:
+      213: -2687995425710334925
+    second: Harry_The_FOx_41
+  - first:
+      213: 4655362399424106933
+    second: Harry_The_FOx_42
+  - first:
+      213: 8658561407942224347
+    second: Harry_The_FOx_43
+  - first:
+      213: 5432773515856826333
+    second: Harry_The_FOx_44
+  - first:
+      213: -7125784748970508619
+    second: Harry_The_FOx_45
+  - first:
+      213: -7987713723827292128
+    second: Harry_The_FOx_46
+  - first:
+      213: 7197685989891038709
+    second: Harry_The_FOx_47
+  - first:
+      213: -4111792600217370050
+    second: Harry_The_FOx_48
+  - first:
+      213: 9032544342155618390
+    second: Harry_The_FOx_49
+  - first:
+      213: -7791949645976740774
+    second: Harry_The_FOx_50
+  - first:
+      213: 1989412862720338164
+    second: Harry_The_FOx_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Harry_The_FOx_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 871
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7547b179e145aec50800000000000000
+      internalID: 6695256286400574551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 871
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ff5b36cf732ad0800000000000000
+      internalID: -2728196459879992196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 871
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc428fb6b8367ff70800000000000000
+      internalID: 9220948212527408335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 871
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094e129b9d0c8ef70800000000000000
+      internalID: 9216828678760162448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 807
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b547208a667548c0800000000000000
+      internalID: -4015673292942260807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 807
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2e7d52da9cecf00800000000000000
+      internalID: 1139069501272744619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 807
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafc3c81fa0d9e1a0800000000000000
+      internalID: -6779658313576230997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 807
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa8181a78b0a5920800000000000000
+      internalID: 2979706780617116331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 743
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de124cf76fb6c7620800000000000000
+      internalID: 2773210177003069933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 743
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915c401d193aba60800000000000000
+      internalID: 7690522110678815131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 743
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a65659279071c860800000000000000
+      internalID: 7548438244985558694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 743
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705f5903a311d2690800000000000000
+      internalID: -7625419652447472377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 679
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed43c4b48a95bbd0800000000000000
+      internalID: -2615014113859645983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 679
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f126c6215c79af40800000000000000
+      internalID: 5740255888045122036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 679
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d454cd28d01f80800000000000000
+      internalID: -8137766835579465398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 679
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5573fba1614d620800000000000000
+      internalID: 2797885572636956091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 615
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf0c0060da01080800000000000000
+      internalID: -9218678195933348947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 615
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a3be96628d1f5c0800000000000000
+      internalID: -4183324919353099707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 615
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5d61779e78013c0800000000000000
+      internalID: -4390860199891118662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_19
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 615
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d275658e20ea380800000000000000
+      internalID: -8958219411889115813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 551
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58480bf33fc7ca1c0800000000000000
+      internalID: -4491077344207797115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 551
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ac9a55ab1ff850800000000000000
+      internalID: 6412874791402645721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 551
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0617a9ab4b34095c0800000000000000
+      internalID: -4210791208087555744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 551
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1142e082e534799d0800000000000000
+      internalID: -2767669374317878255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 487
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a6e3afa29f3200800000000000000
+      internalID: 162009394675361859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 487
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe6312610432730800000000000000
+      internalID: 3973089760061615048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 487
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db472f53e796ad0e0800000000000000
+      internalID: -2244365473498893123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 487
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cbbac10ec4349a0800000000000000
+      internalID: -6250067332422714219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 423
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d68ddd420a1dc60800000000000000
+      internalID: 7841224506429959500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 423
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79c79d99dabb5fc0800000000000000
+      internalID: -3505002441163159170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 423
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b63a57c3887073e0800000000000000
+      internalID: -2058012522327689545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 423
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032cccae6ac409540800000000000000
+      internalID: 5012590665050931760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 359
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c027c35d9cfbee2d0800000000000000
+      internalID: -3247447407700708852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 359
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562a482c5e4654f0800000000000000
+      internalID: -840398122738112943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 359
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b216aab413d3fde50800000000000000
+      internalID: 6836250041303851307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 359
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79551bcd839010b0800000000000000
+      internalID: -5759941686200018561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 295
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fdd37a750554720800000000000000
+      internalID: 2829756278270451472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 295
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09056eca6e3ff2600800000000000000
+      internalID: 445843060201771152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 295
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c041a3d8fb1ae8ed0800000000000000
+      internalID: -2409810906516417524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_39
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 295
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2320d8706bc804b00800000000000000
+      internalID: 810802646365307442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 231
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369eabcca3c6d660800000000000000
+      internalID: 7410325383803737662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 231
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c19a4e66252bad0800000000000000
+      internalID: -2687995425710334925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_42
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 231
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b15266ef6b2b9040800000000000000
+      internalID: 4655362399424106933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 231
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd96d4ab9b3692870800000000000000
+      internalID: 8658561407942224347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 167
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfcbc58ab6156b40800000000000000
+      internalID: 5432773515856826333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_45
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 167
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be77bb56802c1d90800000000000000
+      internalID: -7125784748970508619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 167
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028f2cb50b0f52190800000000000000
+      internalID: -7987713723827292128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 167
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd248d54153e360800000000000000
+      internalID: 7197685989891038709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c6f15a6affe6c0800000000000000
+      internalID: -4111792600217370050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 103
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6586624093b0a5d70800000000000000
+      internalID: 9032544342155618390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 103
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c53db941f6dd390800000000000000
+      internalID: -7791949645976740774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Harry_The_FOx_51
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 103
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e9025570db9b10800000000000000
+      internalID: 1989412862720338164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Harry_The_FOx_0: 6695256286400574551
+      Harry_The_FOx_1: -2728196459879992196
+      Harry_The_FOx_10: 7548438244985558694
+      Harry_The_FOx_11: -7625419652447472377
+      Harry_The_FOx_12: -2615014113859645983
+      Harry_The_FOx_13: 5740255888045122036
+      Harry_The_FOx_14: -8137766835579465398
+      Harry_The_FOx_15: 2797885572636956091
+      Harry_The_FOx_16: -9218678195933348947
+      Harry_The_FOx_17: -4183324919353099707
+      Harry_The_FOx_18: -4390860199891118662
+      Harry_The_FOx_19: -8958219411889115813
+      Harry_The_FOx_2: 9220948212527408335
+      Harry_The_FOx_20: -4491077344207797115
+      Harry_The_FOx_21: 6412874791402645721
+      Harry_The_FOx_22: -4210791208087555744
+      Harry_The_FOx_23: -2767669374317878255
+      Harry_The_FOx_24: 162009394675361859
+      Harry_The_FOx_25: 3973089760061615048
+      Harry_The_FOx_26: -2244365473498893123
+      Harry_The_FOx_27: -6250067332422714219
+      Harry_The_FOx_28: 7841224506429959500
+      Harry_The_FOx_29: -3505002441163159170
+      Harry_The_FOx_3: 9216828678760162448
+      Harry_The_FOx_30: -2058012522327689545
+      Harry_The_FOx_31: 5012590665050931760
+      Harry_The_FOx_32: -3247447407700708852
+      Harry_The_FOx_33: -840398122738112943
+      Harry_The_FOx_34: 6836250041303851307
+      Harry_The_FOx_35: -5759941686200018561
+      Harry_The_FOx_36: 2829756278270451472
+      Harry_The_FOx_37: 445843060201771152
+      Harry_The_FOx_38: -2409810906516417524
+      Harry_The_FOx_39: 810802646365307442
+      Harry_The_FOx_4: -4015673292942260807
+      Harry_The_FOx_40: 7410325383803737662
+      Harry_The_FOx_41: -2687995425710334925
+      Harry_The_FOx_42: 4655362399424106933
+      Harry_The_FOx_43: 8658561407942224347
+      Harry_The_FOx_44: 5432773515856826333
+      Harry_The_FOx_45: -7125784748970508619
+      Harry_The_FOx_46: -7987713723827292128
+      Harry_The_FOx_47: 7197685989891038709
+      Harry_The_FOx_48: -4111792600217370050
+      Harry_The_FOx_49: 9032544342155618390
+      Harry_The_FOx_5: 1139069501272744619
+      Harry_The_FOx_50: -7791949645976740774
+      Harry_The_FOx_51: 1989412862720338164
+      Harry_The_FOx_6: -6779658313576230997
+      Harry_The_FOx_7: 2979706780617116331
+      Harry_The_FOx_8: 2773210177003069933
+      Harry_The_FOx_9: 7690522110678815131
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
